@@ -8,5 +8,4 @@ scopes:
   # explanation of each commit_type/scope.
   - dev: dev dependencies
   - deps: build dependencies (binary distribution)
-  - Sonarcloud: static code analysis
   - Cypress: UI testing
